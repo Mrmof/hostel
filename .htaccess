@@ -1,0 +1,12 @@
+SetEnv APP "C:\xampp\htdocs\hostel\app.php"
+
+
+SetEnv PROJECT_ROOT "C:\xampp\htdocs\hostel"
+SetEnv HOST_URL "http://localhost/"
+
+
+
+
+# HTID:21760916: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21760916:
